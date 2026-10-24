@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-SentinelNet Resource Allocation Graph (RAG) Deadlock Detection Engine
-Member 4: Drishti Verma (OS Unit 3: Deadlock Detection & Graph Reduction)
-"""
-
 from collections import defaultdict, deque
 
 class ResourceAllocationGraph:
